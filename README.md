@@ -20,7 +20,3 @@ This repository showcases a collection of data science projects that demonstrate
 
 [Detailed Notebook: DS_Project2.ipynb](DS_Project2/DS_Project2.ipynb)
 
----
-
-Feel free to explore each project's specific folder or linked notebooks for a deep dive into methodologies, techniques, and outcomes. Contributions, feedback, and inquiries are always welcome.
-
