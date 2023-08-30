@@ -10,7 +10,7 @@ This repository showcases a collection of data science projects that demonstrate
 
 **Description**: This project revolves around the art of web scraping to gather movie-related data. Post data collection, various data mining techniques and analytical methods are applied to derive insights from the movie dataset.
 
-[More details and findings](DS_Project1.html)
+[Detailed Notebook: DS_Project1.ipynb](DS_Project1/DS_Project1.ipynb)
 
 ### DS_Project2: GPX Files Scraper & Analysis
 
@@ -18,5 +18,9 @@ This repository showcases a collection of data science projects that demonstrate
 
 **Description**: This project emphasizes extracting GPX file data from a specific web source. Upon successful data gathering, the project delves into analyzing the data, highlighting patterns, trends, and key insights.
 
-[More details and findings](DataScienceProject2.html)
+[Detailed Notebook: DS_Project2.ipynb](DS_Project2/DS_Project2.ipynb)
+
+---
+
+Feel free to explore each project's specific folder or linked notebooks for a deep dive into methodologies, techniques, and outcomes. Contributions, feedback, and inquiries are always welcome.
 
